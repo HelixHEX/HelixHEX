@@ -7,7 +7,7 @@
 - **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
 - **Twitter:** [`@dandeprods`](https://twitter.com/dandeprods)
 - **Discord:** `Helix#1504`
-- [`Website`](https://eliaswambugu.com)
+- [Website](https://eliaswambugu.com)
 
 > Stats by [`Github Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :3
 
