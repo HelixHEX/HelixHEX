@@ -9,7 +9,7 @@
 - **Discord:** `Helix#1504`
 - [Website](https://eliaswambugu.com)
 
-[![Helix's github stats](https://github-readme-stats.vercel.app/api?username=helixhex&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Helix's github stats](https://github-readme-stats.vercel.app/api?username=helixhex&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > Stats by [`Github Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :3
 
