@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: DevPeak 
+- 💬 Ask me about: Literally anything
+- 📫 How to reach me: dandeproductions.contact@gmail.com
 <!--
 **HelixHEX/HelixHEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
