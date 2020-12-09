@@ -4,7 +4,7 @@
 - 📫 How to reach me: dandeproductions.contact@gmail.com
 
 ### Socials
-- **Twitter:** [`@dandeproductions`](https://instagram.com/dandeproductions)
+- **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
 - **Twitter: ** [`@dandeprods`](https://twitter.com/dandeprods)
 - **Discord: ** `Helix#1504`
 
