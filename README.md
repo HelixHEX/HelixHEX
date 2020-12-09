@@ -9,8 +9,8 @@
 - **Discord:** `Helix#1504`
 - [Website](https://eliaswambugu.com)
 
-[![Helix's github stats](https://github-readme-stats.vercel.app/api?username=helixhex&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helixhex&hide=css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
+[![Helix's github stats](https://github-readme-stats.vercel.app/api?username=helixhex&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helixhex&hide=css,scss,less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > Stats by [`Github Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :3
 
