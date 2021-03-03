@@ -1,6 +1,6 @@
 ### Just your average High School developer
 
-- 🔭 I’m currently working on: DevPeak 
+- 🔭 I’m currently working on: [`QuickLook Todo`](https://quicklook.eliaswambugu.com) 
 - 📫 How to reach me: dandeproductions.contact@gmail.com
 
 ### Socials
