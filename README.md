@@ -5,7 +5,7 @@
 
 ### Socials
 - **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
-- **Twitter:** [`@dandeprods`](https://twitter.com/dandeprods)
+- **Twitter:** [`@officialeliasw`](https://twitter.com/officialeliasw)
 - **Discord:** `Helix#1504`
 - [Website](https://eliaswambugu.com)
 
