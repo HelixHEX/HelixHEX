@@ -1,6 +1,6 @@
 ### Just your average High School developer
 
-- 🔭 I’m currently working on: [`QuickLook Todo`](https://quicklook.eliaswambugu.com) 
+- 🔭 I’m currently working on: [`PostMe`](https://github.com/postme) 
 - 📫 How to reach me: dandeproductions.contact@gmail.com
 
 ### Socials
