@@ -1,6 +1,6 @@
 ### Just your average High School developer
 
-- 🔭 I’m currently working on: [`PostMe`](https://github.com/HelixHEX/postme) 
+- 🔭 I’m currently working on: [`Chatup`](https://devpeak.herokuapp.com) 
 - 📫 How to reach me: dandeproductions.contact@gmail.com
 
 ### Socials
