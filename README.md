@@ -1,6 +1,6 @@
 ### Just your average High School developer
 
-- 🔭 I’m currently working on: [`Chatup`](https://chatuplive.herokuapp.com) 
+- 🔭 I’m currently working on: [`AstraCollab`](https://astracollab.app) 
 - 📫 How to reach me: dandeproductions.contact@gmail.com
 
 ### Socials
