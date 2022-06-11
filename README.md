@@ -6,7 +6,7 @@
 ### Socials
 - **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
 - **Twitter:** [`@officialeliasw`](https://twitter.com/officialeliasw)
-- **Discord:** `Helix#1504`Cancel changes
+- **Discord:** `Helix#1504`
 - [Website](https://eliaswambugu.com)
 
 [![Helix's github stats](https://github-readme-stats.vercel.app/api?username=helixhex&count_private=true&show_icons=true&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
