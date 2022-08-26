@@ -1,4 +1,4 @@
-### Just your average High School developer
+### Just your average developer
 
 - 🔭 I’m currently working on: [`AstraCollab`](https://astracollab.app) 
 - 📫 How to reach me: dandeproductions.contact@gmail.com
