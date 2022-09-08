@@ -1,7 +1,7 @@
 ### Just your average developer
 
 - 🔭 I’m currently working on: [`AstraCollab`](https://astracollab.app) 
-- 📫 How to reach me: dandeproductions.contact@gmail.com
+- 📫 How to reach me: [e.wambugu192@gmail.com](mailto:e.wambugu192@gmail.com@gmail.com)
 
 ### Socials
 - **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
