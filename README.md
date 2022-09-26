@@ -1,6 +1,6 @@
 ### Just your average developer
 
-- 🔭 I’m currently working on: [`AstraCollab`](https://astracollab.app) 
+- 🔭 I’m currently working on: [`BettrDash`](https://bettrdash.eliaswambugu.com) 
 - 📫 How to reach me: e.wambugu192@gmail.com
 
 ### Socials
