@@ -1,7 +1,7 @@
-### Just your average developer
+### Not your average developer
 
-- 🔭 I’m currently working on: [`myresume.guru`](https://myresume.guru) 
-- 📫 How to reach me: e.wambugu192@gmail.com
+- 🔭 Currently working on: [`myresume.guru`](https://myresume.guru) 
+- 📫 How to reach me: elias@thenextcreatives.com
 
 ### Socials
 - **Instagram:** [`@dandeproductions`](https://instagram.com/dandeproductions)
